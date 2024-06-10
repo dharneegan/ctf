@@ -1,5 +1,7 @@
 # Root me Writeup
 
+![image](https://github.com/dharneegan/ctf/assets/122503989/90e98e43-a4a6-4f2d-a2dd-d8b5789c8373)
+
 ## Nmap
 
 Lets start by scanning for open ports. Run this command:
