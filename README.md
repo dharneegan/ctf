@@ -1,2 +1,2 @@
 # ctf
-all my ctf stuff
+All my ctf assets such as writeups and notes
