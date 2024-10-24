@@ -4,7 +4,7 @@ By: Dharneesh Ganesan Senthilkumar
 
 ---
 
-These are my Linux notes for my personal reference but anyone else is free to use them. These notes are based on the "Linux Luminarium" dojo from [pwn.college](http://pwn.college), so full credit goes to them. Please note that some of this information may be inaccurate, as I'm not a professional Linux user.
+These are my Linux notes for my personal reference but anyone else is free to use them. These notes are based on the "Linux Luminarium" dojo from [pwn.college](http://pwn.college), so full credit goes to them. Please note that some of this information may be inaccurate, as I'm not a professional Linux user. These notes were converted from Notion to Markdown, so there might be a few issues. To view the Notion version click [here](https://dharneesh.notion.site/Linux-Notes-0250aa0fde7c4eac94b6a7ce17904d75?pvs=4).
 
 # Paths
 
